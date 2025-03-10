@@ -1,7 +1,7 @@
 # 🌟 Personal Portfolio Website
 
 <div align="center">
-  <img src="public/logo.png" alt="Portfolio Logo" width="200"/>
+  <img src="public/images/logo.png" alt="Portfolio Logo" width="200"/>
   
   [![Next.js](https://img.shields.io/badge/Next.js-13.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
