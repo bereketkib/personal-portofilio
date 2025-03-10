@@ -14,7 +14,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Bereket Kibreab - Software Developer",
+  title: "Bereket Jenay - Software Developer",
   description:
     "Personal portfolio website of Bereket Kibreab, a software developer",
 };

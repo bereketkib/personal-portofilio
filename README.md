@@ -1,7 +1,7 @@
 # 🌟 Personal Portfolio Website
 
 <div align="center">
-  <img src="public/images/logo.png" alt="Portfolio Logo" width="200"/>
+  <img src="public/logo.png" alt="Portfolio Logo" width="200"/>
   
   [![Next.js](https://img.shields.io/badge/Next.js-13.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -82,7 +82,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Bereket Kibreab - bekibreab@gmail.com
 
+<hr>
+<div align="center">
 Made with ❤️ by Bereket Kibreab
+</div>
 
 ```
 

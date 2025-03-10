@@ -46,7 +46,7 @@ export default function Navbar() {
                 B
               </span>
               <span className="font-normal text-gray-900 dark:text-white">
-                K
+                J
               </span>
               <div className="absolute -bottom-1 left-0 w-full h-0.5 bg-gradient-to-r from-blue-600 to-cyan-600 dark:from-blue-400 dark:to-cyan-400 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300" />
             </Link>
