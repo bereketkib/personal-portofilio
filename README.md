@@ -86,7 +86,3 @@ Bereket Kibreab - bekibreab@gmail.com
 <div align="center">
 Made with ❤️ by Bereket Kibreab
 </div>
-
-```
-
-```
