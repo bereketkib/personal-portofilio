@@ -72,7 +72,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-Visit the live website: [Your Portfolio URL]
+Visit the live website: [https://bereket-jenay-portofilio.vercel.app/]
 
 ## 📝 License
 
