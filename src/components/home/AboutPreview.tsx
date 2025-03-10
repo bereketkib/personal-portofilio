@@ -1,4 +1,4 @@
-import { motion, useScroll, useTransform } from "framer-motion";
+import { motion } from "framer-motion";
 import Link from "next/link";
 import { useRef, useState } from "react";
 import Image from "next/image";
@@ -6,10 +6,6 @@ import Image from "next/image";
 const AboutPreview = () => {
   const containerRef = useRef<HTMLDivElement>(null);
   const [hoveredSkill, setHoveredSkill] = useState<number | null>(null);
-  const { scrollYProgress } = useScroll({
-    target: containerRef,
-    offset: ["start end", "end start"],
-  });
 
   const skills = [
     {

@@ -112,14 +112,15 @@ export default function ContactPage() {
               <HiOutlineSparkles className="w-8 h-8 text-blue-600 dark:text-blue-400" />
             </motion.div>
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 dark:text-white">
-              Let's Create Something{" "}
+              Let&apos;s Create Something{" "}
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-cyan-600 dark:from-blue-400 dark:to-cyan-400">
                 Amazing Together
               </span>
             </h1>
             <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto text-lg">
-              Have a project in mind or just want to chat? I'm always excited to
-              connect with fellow developers and potential collaborators!
+              Have a project in mind or just want to chat? I&apos;m always
+              excited to connect with fellow developers and potential
+              collaborators!
             </p>
           </motion.div>
 

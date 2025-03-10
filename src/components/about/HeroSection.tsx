@@ -86,7 +86,7 @@ export const HeroSection = () => {
               >
                 Tech-savvy IT Support Specialist and Computer Science graduate,
                 passionate about creating innovative solutions and pushing the
-                boundaries of what's possible in tech.
+                boundaries of what&apos;s possible in tech.
               </motion.p>
             </div>
 
@@ -129,7 +129,7 @@ export const HeroSection = () => {
                 className="group relative inline-flex items-center gap-2 px-6 py-3 text-sm font-semibold text-white dark:text-gray-900"
               >
                 <span className="absolute inset-0 rounded-full bg-gray-900 dark:bg-white transition-transform duration-300 group-hover:scale-105" />
-                <span className="relative">Let's Connect</span>
+                <span className="relative">Let&apos;s Connect</span>
                 <motion.span
                   className="relative"
                   animate={{ x: [0, 5, 0] }}
