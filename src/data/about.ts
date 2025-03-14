@@ -60,7 +60,7 @@ const certifications = [
 
 const experience = [
   {
-    title: "IT Support",
+    title: "IT Support - Networking and Software Development",
     company: "Fujairah Aviation Academy",
     period: "Aug 2023 – Dec 2024",
     location: "Fujairah, UAE",
