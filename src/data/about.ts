@@ -62,7 +62,7 @@ const experience = [
   {
     title: "IT Support",
     company: "Fujairah Aviation Academy",
-    period: "Aug 2023 – Dec 2023",
+    period: "Aug 2023 – Dec 2024",
     location: "Fujairah, UAE",
     achievements: [
       "Provided Tier 1 and Tier 2 IT support to over 100 internal users, ensuring 98% issue resolution within SLA timeframes",

@@ -30,7 +30,7 @@ const ExperienceSection = () => {
 
   const experiences = [
     {
-      period: "Aug 2023 – Dec 2023",
+      period: "Aug 2023 – Dec 2024",
       role: "IT Support",
       company: "Fujairah Aviation Academy",
       location: "Fujairah, UAE",
