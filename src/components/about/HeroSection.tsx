@@ -164,7 +164,7 @@ export const HeroSection = () => {
                 <div className="absolute inset-0 rounded-full overflow-hidden">
                   <div className="absolute inset-0 bg-gradient-to-br from-blue-600/20 to-cyan-600/20 mix-blend-overlay" />
                   <Image
-                    src="/images/profile.jpeg"
+                    src="/images/profile.png"
                     alt="Profile Picture"
                     fill
                     className="object-cover"
